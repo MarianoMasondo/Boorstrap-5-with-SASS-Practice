@@ -10,5 +10,10 @@ $dark: $oscuro;
 
 //Tipografia
 $display-font-weight: 900;
+$heading-font-weight: 700;
+
+//cards
+$card-border-color: trasnparent;
+
 //importar Bootstrap
 @import '../../node_modules/bootstrap/scss/bootstrap.scss';
