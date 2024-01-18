@@ -6,8 +6,7 @@
   "scripts": {
     "compilar:sass": "sass --watch src/scss:build/css",
     "build:sass": "purgecss --css build/css/style.css --content index.html --output build/css/meeti.css"
-  }
-  ,
+  },
   "author": "Mariano Masondo",
   "license": "ISC",
   "devDependencies": {
